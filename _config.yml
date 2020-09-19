@@ -2,15 +2,7 @@ actors:
   hgc:
     image_url: /images/actors/alice.png
     name: hgc
-    url: http://sns.example.com/alice
-  akio:
-    image_url: /images/actors/bob.png
-    name: Akio
-    url: http://sns.example.com/bob
-  moriyuka:
-    image_url: /images/actors/bob.png
-    name: Moriyuka
-    url: http://sns.example.com/bob
+    url: https://twitter.com/n_hgc36
 author: hgc
 description: NEWPEACE Inc.の社内勉強会の様子や学びを、メンバーがポップに、赤裸々にお届けします。
 description_long: NEWPEACE Inc.の社内勉強会の様子や学びを、メンバーがポップに、赤裸々にお届けします。コミュニティを中心に、実践的な内容から理論・アイデアまで勝手気ままに話しています．
