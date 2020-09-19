@@ -1,16 +1,20 @@
 actors:
-  alice:
+  hgc:
     image_url: /images/actors/alice.png
-    name: alice
+    name: hgc
     url: http://sns.example.com/alice
-  bob:
+  akio:
     image_url: /images/actors/bob.png
-    name: bob
+    name: Akio
     url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+  moriyuka:
+    image_url: /images/actors/bob.png
+    name: Moriyuka
+    url: http://sns.example.com/bob
+author: hgc
+description: NEWPEACE Inc.の社内勉強会の様子や学びを、メンバーがポップに、赤裸々にお届けします。
+description_long: NEWPEACE Inc.の社内勉強会の様子や学びを、メンバーがポップに、赤裸々にお届けします。コミュニティを中心に、実践的な内容から理論・アイデアまで勝手気ままに話しています．
+email: info@newpeace.jp
 exclude:
   - docker
   - docker-compose.yml
